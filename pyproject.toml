@@ -1,0 +1,11 @@
+[project]
+name = "ai-agent-human-approval"
+version = "1.0.0"
+description = "Inbound message -> AI agent with tools (CRM, Google Sheets, knowledge base) -> guardrails -> human approval in Slack or a web page -> send, with an audit trail and evals."
+authors = [{ name = "Taha Elkarroumy" }]
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+filterwarnings = ["ignore::DeprecationWarning", "ignore:.*httpx2.*"]

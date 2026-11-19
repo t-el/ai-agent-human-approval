@@ -1,0 +1,8 @@
+{
+  "sarah@brightpath.io": {"name": "Sarah Lin", "company": "BrightPath", "plan": "Growth", "mrr": 79, "customer_since": "2025-03-02", "account_owner": "Yassine", "open_tickets": 0, "health": "good", "notes": "Champion, renewed early last year."},
+  "mike@harborgoods.com": {"name": "Mike Torres", "company": "Harbor Goods", "plan": "Starter", "mrr": 29, "customer_since": "2026-10-28", "account_owner": "Salma", "open_tickets": 1, "health": "at_risk", "notes": "Signed up 3 weeks ago, struggled with onboarding."},
+  "anna@kleinarchitects.de": {"name": "Anna Klein", "company": "Klein Architects", "plan": "Scale", "mrr": 199, "customer_since": "2024-07-15", "account_owner": "Yassine", "open_tickets": 2, "health": "at_risk", "notes": "Annual plan. Two escalations this quarter."},
+  "leo@fernstudio.co": {"name": "Leo Fern", "company": "Fern Studio", "plan": "Growth", "mrr": 79, "customer_since": "2025-11-01", "account_owner": "Salma", "open_tickets": 0, "health": "good", "notes": ""},
+  "priya@northstack.dev": {"name": "Priya Nair", "company": "NorthStack", "plan": "Growth", "mrr": 79, "customer_since": "2025-01-20", "account_owner": "Yassine", "open_tickets": 0, "health": "good", "notes": "Asked about SSO in October."},
+  "tom@quickcart.shop": {"name": "Tom Becker", "company": "QuickCart", "plan": "Starter", "mrr": 29, "customer_since": "2026-11-05", "account_owner": "Salma", "open_tickets": 0, "health": "new", "notes": ""}
+}
