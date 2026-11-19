@@ -1,0 +1,6 @@
+order_id,email,product,amount,status,shipped_at,tracking
+ORD-10421,mike@harborgoods.com,Starter plan (monthly),29.00,paid,,
+ORD-10388,anna@kleinarchitects.de,Scale plan (annual),2388.00,paid,,
+ORD-10455,leo@fernstudio.co,Desk Hub,149.00,shipped,2026-11-12,DHL 00340434161234567890
+ORD-10460,tom@quickcart.shop,Barcode Scanner Kit,89.00,shipped,2026-11-17,UPS 1Z999AA10123456784
+ORD-10399,sarah@brightpath.io,Growth plan (monthly),79.00,paid,,
